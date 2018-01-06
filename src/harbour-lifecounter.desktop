@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-lifecounter
+Exec=harbour-lifecounter
+Name=MTG Lifes
+Name[de]=MTG Leben

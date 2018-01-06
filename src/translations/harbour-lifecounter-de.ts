@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1">
+<context>
+    <name>CoverPage</name>
+    <message>
+        <source>MTG</source>
+        <translation>MTG</translation>
+    </message>
+</context>
+<context>
+    <name>FirstPage</name>
+    <message>
+        <source>settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>reset</source>
+        <translation>Zurücksetzen</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>settings</source>
+        <translation>Einstellugen</translation>
+    </message>
+    <message>
+        <source>energy</source>
+        <translation>Energiemarkenzähler</translation>
+    </message>
+    <message>
+        <source>poison</source>
+        <translation>Vergiftungsmarkenzähler</translation>
+    </message>
+    <message>
+        <source>lifes</source>
+        <translation>Lebenspunkte</translation>
+    </message>
+    <message>
+        <source>life</source>
+        <translation>Lebenspunktezähler</translation>
+    </message>
+</context>
+</TS>
